@@ -1,1 +1,2 @@
 # SymptoSage
+Symptosage is a machine learning-based medicine recommendation system built using Python. It analyzes user-provided symptoms and offers personalized recommendations for medicines, workouts, diets, and precautions. The project involves collecting and preprocessing medical data, implementing machine learning algorithms for accurate symptom analysis, and developing a user-friendly interface using Python frameworks like Flask or Django. Symptosage aims to assist users in making informed health decisions by providing comprehensive and tailored healthcare solutions.
